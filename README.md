@@ -1,4 +1,4 @@
-# IEEE_GRSL_Letter_2023_CLN-Fusion
+# IEEE_GRSL_Letter_2024_CLN-Fusion
 This package contains the Pytorch codes for the algorithm presented in the paper:
 
 J. Zhu, X. Yang, H. Liang, and X. Yang, "Coupling Local-Nonlocal Feature Representation for SAR and Multispectral Image Fusion", Submitted to IEEE Geoscience and Remote Sensing Letters. (Under Review, Round 1)
